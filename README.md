@@ -23,11 +23,11 @@ In Digital Design, a NAND gate is a logic gate which produces an output which is
 ### Differential Delay Cell:
 Initially Schematic of the Differential Delay cell was implemented and converted into a symbol so that it could be used directly as delay cell from the library.
 <p align="center">
-  <img src=></br>
+  <img src=Images/circ.png></br>
   Fig. 4: Differential Delay Cell Schematic
 </p>
 <p align="center">
-  <img src=></br>
+  <img src=>Images/sim.png</br>
   Fig. 5: Differential Delay Cell Symbol
 </p>
 
