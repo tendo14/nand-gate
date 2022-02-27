@@ -2,6 +2,16 @@
 
 This repository presents the design of NAND Gate implemented using Synopsis Custom Compiler on 28nm CMOS Technology.
 
+# Table of Contents
+ * [Introduction](#Introduction)
+ * [Tools Used](#Tools-Used)
+ * [Schematics and Simulations](#Schematics-and-Simulations)
+ * [Netlist of the Circuit](#Netlist-of-the-Circuit)
+ * [Observations](#Observations)
+ * [Author](#Author)
+ * [Acknowledgements](#Acknowledgements)
+ * [References](#References)
+
 # Introduction:
 In Digital Design, a NAND gate is a logic gate which produces an output which is false only if all its inputs are true. NAND gate using CMOS will be designed using 2 PMOS and 2 NMOS devices. The 2 PMOS will be connected in parallel with each other and in series with the 2 NMOS. Inputs will be between the NMOS and PMOS pairs, and the output will be between the PMOS and NMOS connection. NAND Gate is an universal gate and is an important part of electronic circuits. This complete design and implementation is done using VLSI technology which has features such as high speed, low cost, small size and low power.
 
