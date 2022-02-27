@@ -16,19 +16,20 @@ In Digital Design, a NAND gate is a logic gate which produces an output which is
 <b>• Synopsys 28nm PDK:</b></br>
 &emsp;The Synopsys 28nm Process Design Kit(PDK) was used in creation and simulation of the above designed circuit.
 
-# Pre-Layout Schematics and Simulations:
+# Schematics and Simulations:
 
 ## Schematics:
 
-### Differential Delay Cell:
-Initially Schematic of the Differential Delay cell was implemented and converted into a symbol so that it could be used directly as delay cell from the library.
 <p align="center">
   <img src=Images/circ.png></br>
-  Fig. 4: Differential Delay Cell Schematic
+  Fig. 1: NAND Gate Schematic
 </p>
+
+## Simulation and Waveform:
+
 <p align="center">
   <img src=Images/sim.png></br>
-  Fig. 5: Differential Delay Cell Symbol
+  Fig. 2: Waveform obtained after transient analysis
 </p>
 
 
