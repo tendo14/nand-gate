@@ -27,7 +27,7 @@ Initially Schematic of the Differential Delay cell was implemented and converted
   Fig. 4: Differential Delay Cell Schematic
 </p>
 <p align="center">
-  <img src=>Images/sim.png</br>
+  <img src=Images/sim.png></br>
   Fig. 5: Differential Delay Cell Symbol
 </p>
 
