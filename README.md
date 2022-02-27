@@ -32,12 +32,12 @@ In Digital Design, a NAND gate is a logic gate which produces an output which is
   Fig. 2: Waveform obtained after transient analysis
 </p>
 
-
-
-
 # Netlist of the Circuit:
 
 Refer to the netlist of the NAND gate here: <a href='netlist'>Netlist</a>
+
+# Observations:
+• We can observe that the waveform given in the Literature review and the final waveform match.</br>
 
 # Author:
 • Aditya Agarwal, B.Tech(EEE), BITS Pilani KK Birla Goa Campus.
