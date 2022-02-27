@@ -34,6 +34,11 @@ In Digital Design, a NAND gate is a logic gate which produces an output which is
 
 
 
+
+# Netlist of the Circuit:
+
+Refer to the netlist of the NAND gate here: <a href='netlist'>Netlist</a>
+
 # Author:
 • Aditya Agarwal, B.Tech(EEE), BITS Pilani KK Birla Goa Campus.
 
